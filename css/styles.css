@@ -70,6 +70,7 @@
 html {
   font: 350 100%/1.5 var(--font-main);
   scroll-behavior: smooth;
+  scroll-padding: 72px;
 }
 
 /* ==============================================
@@ -236,7 +237,7 @@ body {
 }
 
 .container--small {
-  max-width: 960px;
+  max-width: 900px;
 }
 
 /* ==============================================
