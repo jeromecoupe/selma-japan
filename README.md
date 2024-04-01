@@ -2,4 +2,4 @@
 
 Site Internet réalisé par Selma AdS pour son travail à NESPA, 2024
 
-[Site publié](https://japonoccident.netlify.app)
+[Site publié](https://japon-selma.netlify.app)
