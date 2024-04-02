@@ -69,8 +69,11 @@
 
 html {
   font: 350 100%/1.5 var(--font-main);
-  scroll-behavior: smooth;
-  scroll-padding: 72px;
+
+  @media (prefers-reduced-motion: no-preference) {
+    scroll-padding: 72px;
+    scroll-behavior: smooth;
+  }
 }
 
 /* ==============================================
